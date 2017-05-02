@@ -1,1 +1,1 @@
-# LATimesPhotoArchiveUCLA
+# LATimesPhotoArchive
